@@ -3,7 +3,7 @@ A simple multi-agent research system built with LangChain, Tavily, BeautifulSoup
 
 ## Overview
 
-ScoutAI takes a research topic, searches the web for relevant information, reads deeper content from selected sources, writes a draft report, and then critiques the report to improve quality.
+Research mind takes a research topic, searches the web for relevant information, reads deeper content from selected sources, writes a draft report, and then critiques the report to improve quality.
 
 ## Features
 
